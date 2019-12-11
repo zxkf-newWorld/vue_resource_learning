@@ -1,0 +1,23 @@
+{
+  "name": "vue_resource_learning",
+  "version": "1.0.0",
+  "description": "vue2.0源码学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxkf-newWorld/vue_resource_learning.git"
+  },
+  "keywords": [
+    "vue.js",
+    "源码"
+  ],
+  "author": "tina (天净若风)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxkf-newWorld/vue_resource_learning/issues"
+  },
+  "homepage": "https://github.com/zxkf-newWorld/vue_resource_learning#readme"
+}
